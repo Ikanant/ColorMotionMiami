@@ -1,0 +1,7 @@
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\bin\Debug\ColorMotionMiami.Core.dll
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\bin\Debug\ColorMotionMiami.Core.pdb
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\obj\Debug\ColorMotionMiami.Core.csprojResolveAssemblyReference.cache
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\obj\Debug\ColorMotionMiami.Core.dll
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\obj\Debug\ColorMotionMiami.Core.pdb
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\bin\Debug\ColorMotionMiami.Core.dll.CodeAnalysisLog.xml
+D:\Workspaces\Android\Xamarin\ColorMotionMiami\ColorMotionMiami.Core\bin\Debug\ColorMotionMiami.Core.dll.lastcodeanalysissucceeded
